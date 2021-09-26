@@ -1,0 +1,16 @@
+#para1{
+    font-size: 5vh; /*1vh = 1/100 of window height*/
+}
+#para2 {
+    font-family:sans-serif 'segoe UI' ;
+}
+
+#para3 {
+    font-style: italic;
+    font-weight: lighter;
+}
+
+#para4 {
+    word-spacing: 10px;
+    letter-spacing: 2px;
+}
